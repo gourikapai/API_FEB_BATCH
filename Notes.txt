@@ -1,0 +1,22 @@
+c4c - cloud for service , sales and marketings 
+
+home , 
+
+leads , opportunities , 
+
+key user tools 
+
+extensibility - cloud application studio sdk - absl , bodl and ruby 
+
+create bp's in c4c thru soap ui 
+we know how the payload works 
+rfc dest , creating pi syetm user , port settings
+idocs - isu to pi 
+
+pi add on - remaining - with basis 	
+mostly with basis  - po and basis 
+
+
+
+
+

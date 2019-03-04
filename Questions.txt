@@ -1,0 +1,36 @@
+few questions related to cucumber
+how to handle other data types other than int and string in the step definition code or snippets?
+how to run both smoke and regression scenarios at a time using runner?
+I am unable to run the feature file as right click--->run as 'cucumber feature'
+I have to change feature path in the 'run configuraions' each time I create new feature file then only I am
+able to run the feature file ?run as 'cucumber feature' doesnt work for me?
+I uninstalled and reinstalled cucumber plugin and tried.
+
+I got that we need to create seperate feature file for CRUD operation but what about runner class ,
+we should have seperate class or everything in same class?which one is the best practice?
+
+
+Pending stuff in restAssuredFramework
+Archived Reports
+TestReports
+Retry Listeners
+Generating screenshot in the extent report
+Different authentication Methods (bearer token ,OAuth etc)
+Email
+
+
+Pending stuff in GitHub
+how to see Parent branch of new branch 
+html report generation
+GIT SSH connection
+Difference between fetch and pull
+
+Pending stuff in Postman
+Examples /APIS for other Http Methods such as PUT,PATCH,LOCK,UNLOCK,VIEW,LINK,COPY etc
+A sample test stretegy and testcase scenaruo of real time application
+few positive and negaive testcases /test scrits in postman to get the complexity of postman scripts in real time application
+
+
+
+
+
